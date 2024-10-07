@@ -1,5 +1,5 @@
 # johnmarco123
-<img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=30&duration=4000&pause=1000&color=32F711&vCenter=true&width=435&lines=%F0%9F%91%8B+Hey+there!;I'm+John-Marco+Tasillo;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=30&duration=4000&pause=1000&color=32F711&vCenter=true&width=435&lines=%F0%9F%91%8B+Hey+there!;I'm+John-Marco+Tasillo;Welcome+to+my+Github+profile!" />
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
