@@ -15,6 +15,12 @@
 <img src="https://skillicons.dev/icons?i=js,html,css,php,go,rust,python,lua">
 </h1>
 <br>
+<h2 align="center">Stacks</h2>
+<h1 align="center">
+LEMP
+<img src="https://skillicons.dev/icons?i=linux,js,html,css,php,nginx,mysql">
+</h1>
+<br>
 <h2 align="center">Tools</h2>
 <h1 align="center">
 <img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,linux,nginx">
