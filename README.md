@@ -3,8 +3,6 @@
 </h1>
 <h1 align="center">
 <img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap">
-</h1>
-<h1 align="center">
 <img src="https://data.typeracer.com/misc/badge?user=johnmarco123">
 </h1>
   <source
