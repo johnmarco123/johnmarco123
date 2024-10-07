@@ -10,14 +10,17 @@
 </h1>
 <br>
 
+Languages: 
 <h1 align="center">
-Languages: <img src="https://skillicons.dev/icons?i=js,html,css,php,go,rust,python,lua">
+<img src="https://skillicons.dev/icons?i=js,html,css,php,go,rust,python,lua">
 </h1>
+Stacks: 
 <h1 align="center">
-Stacks: <img src="https://skillicons.dev/icons?i=linux,nginx,mysql,php">
+<img src="https://skillicons.dev/icons?i=linux,nginx,mysql,php">
 </h1>
+Tools: 
 <h1 align="center">
-Tools: <img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,">
+<img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,">
 </h1>
 <br>
 
