@@ -7,9 +7,16 @@
 <img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="300">
 </h1>
 
+<h2>Languages</h2>
 <h1 align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,php,go">
 </h1>
+
+<h2>😁 Neovim 😁</h2>
+<h1 align="center">
+<img src="https://skillicons.dev/icons?i=neovim,vim>
+</h1>
+
 
 <picture>
   <source
