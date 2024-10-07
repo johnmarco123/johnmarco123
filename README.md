@@ -4,6 +4,9 @@
 <h1 align="center">
 <img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap">
 </h1>
+<h1 align="center">
+<img src="https://data.typeracer.com/misc/badge?user=johnmarco123">
+</h1>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/johnmarco123/johnmarco123/output/github-contribution-grid-snake-dark.svg"
