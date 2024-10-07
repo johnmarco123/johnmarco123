@@ -7,6 +7,7 @@
 <h1 align="center">
 <img src="https://data.typeracer.com/misc/badge?user=johnmarco123" height="300">
 <img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="300">
+<br>
 </h1>
 <br>
 
