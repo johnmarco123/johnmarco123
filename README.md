@@ -14,7 +14,7 @@
 
 <h2>😁 Neovim 😁</h2>
 <h1 align="center">
-<img src="https://skillicons.dev/icons?i=neovim,js,html,css,php,go">
+<img src="https://skillicons.dev/icons?i=neovim,vim">
 </h1>
 
 
