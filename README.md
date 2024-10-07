@@ -11,16 +11,13 @@
 <br>
 
 <h1 align="center">
-<h2 align="left">Languages: </h2>
-<img src="https://skillicons.dev/icons?i=js,html,css,php,go,rust,python,lua">
+Languages: <img src="https://skillicons.dev/icons?i=js,html,css,php,go,rust,python,lua">
 </h1>
 <h1 align="center">
-<h2 align="left">Stacks:</h2>
-<img src="https://skillicons.dev/icons?i=linux,nginx,mysql,php">
+Stacks: <img src="https://skillicons.dev/icons?i=linux,nginx,mysql,php">
 </h1>
 <h1 align="center">
-<h2 align="left">Tools:</h2>
-<img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,">
+Tools: <img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,">
 </h1>
 <br>
 
