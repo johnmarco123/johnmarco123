@@ -16,6 +16,7 @@
 </h1>
 <h2 align="center">Stacks:</h2> 
 <h1 align="center">
+<h3>LEMP</h3>
 <img src="https://skillicons.dev/icons?i=linux,nginx,mysql,php">
 </h1>
 <h2 align="center">Tools:</h2> 
