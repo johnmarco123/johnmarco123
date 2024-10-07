@@ -15,12 +15,12 @@
 <img src="https://skillicons.dev/icons?i=js,html,css,php,go,rust,python,lua">
 </h1>
 <br>
-
-<h2 align="center">😁 Text editors 😁</h2>
+<h2 align="center">Tools</h2>
 <h1 align="center">
-<img src="https://skillicons.dev/icons?i=neovim,vim">
+<img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,linux,nginx">
 </h1>
 <br>
+
 
 <picture>
   <source
