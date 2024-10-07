@@ -17,8 +17,8 @@
 <br>
 <h2 align="center">Stacks</h2>
 <h1 align="center">
-LEMP
-<img src="https://skillicons.dev/icons?i=linux,js,html,css,php,nginx,mysql">
+<h3 align="center">LEMP</h3>
+<img src="https://skillicons.dev/icons?i=linux,nginx,mysql,php">
 </h1>
 <br>
 <h2 align="center">Tools</h2>
