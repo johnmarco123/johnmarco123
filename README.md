@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=1200&pause=500&color=FFFFFF&background=000000&vCenter=true&multiline=true&width=835&height=250&lines=root%40computer%3A~%24+echo+Hello+there+%F0%9F%91%8B;Hello+there+%F0%9F%91%8B;root%40computer%3A~%24+echo+My+name+is+John-Marco+Tasillo;My+name+is+John-Marco+Tasillo;root%40computer%3A~%24+echo+Welcome+to+my+Github+Profile!;Welcome+to+my+Github+Profile!;root%40computer%3A~%24+echo+I+use+Neovim+Btw;How+many+times+are+you+gonna+say+that+%F0%9F%99%84;root%40computer%3A~%24+poweroff">
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=1200&pause=500&color=0AFF07&background=000000&vCenter=true&multiline=true&width=835&height=250&lines=root%40computer%3A~%24+echo+Hello+there+%F0%9F%91%8B;Hello+there+%F0%9F%91%8B;root%40computer%3A~%24+echo+My+name+is+John-Marco+Tasillo;My+name+is+John-Marco+Tasillo;root%40computer%3A~%24+echo+Welcome+to+my+Github+Profile!;Welcome+to+my+Github+Profile!;root%40computer%3A~%24+echo+I+use+Neovim+Btw;How+many+times+are+you+gonna+say+that+%F0%9F%99%84;root%40computer%3A~%24+poweroff">
 </h1>
 <br>
 <br>
