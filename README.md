@@ -13,7 +13,7 @@
 <li><h3>I'm a Neovim enthusiast and update my neovim config as well as many other configs <a href="https://github.com/johnmarco123/dotfiles2">here</a></h3></p>
 </ul>
 <h1 align="center">
-    ![](https://github.com/johnmarco123/neovim.gif)
+    ![](https://github.com/johnmarco123/johnmarco123/blob/main/gifs/neovim.gif)
 </h1>
 <br><br>
 <hr>
