@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=1500&pause=500&color=4E9A06&background=000000&vCenter=true&multiline=true&width=835&height=250&lines=root%40computer%3A~%24+Hello+there!;root%40computer%3A~%24+Welcome+to+my+Github+profile!;root%40computer%3A~%24+My+name+is+John-Marco+Tasillo;root%40computer%3A~%24+I+use+Neovim+BTW;root%40computer%3A~%24+clear%5E%5B>
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&duration=1500&pause=500&color=4E9A06&background=000000&vCenter=true&multiline=true&width=835&height=250&lines=root%40computer%3A~%24+Hello+there!;root%40computer%3A~%24+Welcome+to+my+Github+profile!;root%40computer%3A~%24+My+name+is+John-Marco+Tasillo;root%40computer%3A~%24+I+use+Neovim+BTW;root%40computer%3A~%24+clear%5E%5B">
 </h1>
 <br>
 <br>
