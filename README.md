@@ -1,9 +1,11 @@
 <br>
 
-<h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&duration=1200&pause=500&color=0AFF07&background=000000&vCenter=true&multiline=true&width=835&height=350&lines=root%40laptop%3A~%24+echo+taxxoqrhafavq%F0%9F%91%8B+%7C+tr+qafxrtv+%5C+erltH!;Hello+there!+%F0%9F%91%8B;root%40laptop%3A~%24+whoami;John-Marco+Tasillo;root%40laptop%3A~%24+cat+welcome.txt;Welcome+to+my+Github+Profile!;root%40laptop%3A~%24+echo+I+use+Neovim+BTW;How+many+times+are+you+gonna+say+that+%F0%9F%99%84;root%40laptop%3A~%24+clear">
+
+<h1 align="center">
+<img src="https://data.typeracer.com/misc/badge?user=johnmarco123" height="350">
+<img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="350">
 </h1>
-<br>
 <br>
 
 <h1 align="center">Languages & Tools</h1> 
@@ -13,11 +15,6 @@
 </h1>
 <br>
 
-<h1 align="center">
-<img src="https://data.typeracer.com/misc/badge?user=johnmarco123" height="400">
-<img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="400">
-</h1>
-<br>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnmarco123/johnmarco123/output/github-contribution-grid-snake-dark.svg" />
