@@ -5,7 +5,7 @@
 <br><br>
 <hr>
 
-<h1 align="center">About me</h1>
+<h1 align="center">🇨🇦🇮🇹About me🇵🇱🇨🇦</h1>
 <ul align="left">
 <li><h3>I'm an Associate Full Stack Developer at Mortgage Automator</h3></p>
 <li><h3>I love my Job and anything to do with programming</h3></p>
