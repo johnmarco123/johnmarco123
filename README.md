@@ -14,10 +14,10 @@
 <br><br>
 <hr>
 
-<h1 align="center">
+<div align="center">
 <img src="https://data.typeracer.com/misc/badge?user=johnmarco123" height="375">
 <img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="375">
-</h1>
+</div>
 <br><br>
 <hr>
 
