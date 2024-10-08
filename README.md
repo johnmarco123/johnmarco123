@@ -5,8 +5,10 @@
 <br><br>
 <hr>
 
-<h1 align="center">🇨🇦🇮🇹About me🇵🇱🇨🇦</h1>
+<h1 align="center">🇮🇹🇨🇦About me🇨🇦🇵🇱</h1>
+- hello? does this work?
 <ul align="left">
+<li><h3></h3></p>
 <li><h3>I'm an Associate Full Stack Developer at Mortgage Automator</h3></p>
 <li><h3>I love my Job and anything to do with programming</h3></p>
 <li><h3>I'm a Neovim enthusiast and update my nvim config in my spare time</h3></p>
