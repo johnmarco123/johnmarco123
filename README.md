@@ -27,7 +27,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=johnmarco123&show_icons=true&theme=dark" width="750">
 <img src="https://data.typeracer.com/misc/badge?user=johnmarco123" height="350">
-<img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="305">
+<img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="350">
 </div>
 <br><br>
 <hr>
