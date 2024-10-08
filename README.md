@@ -22,6 +22,3 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnmarco123/johnmarco123/output/github-contribution-grid-snake-dark.svg" />
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/johnmarco123/johnmarco123/output/github-contribution-grid-snake.svg" />
 </picture>
-h1 align = "center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Clayton+Hamilton%2C+PharmD;Welcome+to+my+README" alt="Typing SVG" /></a>
-</h1>
