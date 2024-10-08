@@ -6,11 +6,11 @@
 <hr>
 
 <h1 align="center">About me</h1>
-<h1 align="center">
+<div align="center">
 <p>I'm an Associate Full Stack Developer at Mortgage Automator</p>
 <p>I love my Job and anything to do with programming</p>
 <p>I configure my neovim in my spare time</p>
-</h1>
+</div>
 <br><br>
 <hr>
 
