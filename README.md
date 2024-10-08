@@ -6,7 +6,7 @@
 <hr>
 
 <h1 align="center">About me</h1>
-<h3 align="left">
+<h3 align="left" width="200">
 <p>I'm an Associate Full Stack Developer at Mortgage Automator</p>
 <p>I love my Job and anything to do with programming</p>
 <p>I configure my neovim in my spare time</p>
