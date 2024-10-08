@@ -8,13 +8,11 @@
 
 <img src="https://data.typeracer.com/misc/badge?user=johnmarco123" height="375">
 <img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="375">
-</h1>
 <br><br>
 <hr>
 <br><br>
 
 <h1 align="center">Languages & Tools</h1> 
-<h1 align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,php,go,rust,python,lua">
 <img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,linux,nginx,mysql">
 <br><br>
