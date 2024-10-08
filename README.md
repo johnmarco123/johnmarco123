@@ -12,7 +12,7 @@
 <li><h3>I love my Job and anything to do with programming</h3></p>
 <li><h3>I'm a Neovim enthusiast and update my neovim config as well as many other configs <a href="https://github.com/johnmarco123/dotfiles2">here</a></h3></p>
 </ul>
-![me coding in neovim](https://github.com/johnmarco123/johnmarco123/blob/main/gifs/neovim.gif)
+![me coding in neovim](https://raw.githubusercontent.com/johnmarco123/johnmarco123/refs/heads/main/gifs/neovim.gif)
 <br><br>
 <hr>
 <h1 align="center">📈 Stats 📈</h1> 
