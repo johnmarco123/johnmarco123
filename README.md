@@ -5,9 +5,9 @@
 </h1>
 <hr>
 <h1 align="center">About me</h1>
-<p>I'm an Associate Full Stack Developer working at Mortgage Automator</p>
-<p>I love my Job and anything to do with programming</p>
-<p>I configure my neovim in my spare time</p>
+I'm an Associate Full Stack Developer working at Mortgage Automator
+I love my Job and anything to do with programming
+I configure my neovim in my spare time
 </h1>
 
 <h1>
