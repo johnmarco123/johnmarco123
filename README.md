@@ -5,7 +5,7 @@
 <br><br>
 <hr>
 
-<h1 align="center">🇮🇹🇨🇦About me🇨🇦🇵🇱</h1>
+<h1 align="center">🇮🇹🇨🇦 About me 🇨🇦🇵🇱</h1>
 <ul align="left">
 <li><h3>Born and raised canadian</h3></p>
 <li><h3>I'm an Associate Full Stack Developer at Mortgage Automator</h3></p>
@@ -14,7 +14,7 @@
 </ul>
 <br><br>
 <hr>
-<h1 align="center">📈Stats📈</h1> 
+<h1 align="center">📈 Stats 📈</h1> 
 <div align="center">
 <img src="https://data.typeracer.com/misc/badge?user=johnmarco123" height="375">
 <img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="375">
@@ -22,7 +22,7 @@
 <br><br>
 <hr>
 
-<h1 align="center">🛠️Languages & Tools🛠️</h1> 
+<h1 align="center">🛠️ Languages & Tools 🛠️</h1> 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,php,go,rust,python,lua">
 <img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,linux,nginx,mysql">
