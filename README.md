@@ -7,7 +7,7 @@
 
 <h1 align="center">🇮🇹🇨🇦About me🇨🇦🇵🇱</h1>
 <ul align="left">
-<li><h3></h3></p>
+<li><h3>Born and raised canadian</h3></p>
 <li><h3>I'm an Associate Full Stack Developer at Mortgage Automator</h3></p>
 <li><h3>I love my Job and anything to do with programming</h3></p>
 <li><h3>I'm a Neovim enthusiast and update my nvim config in my spare time</h3></p>
