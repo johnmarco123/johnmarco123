@@ -4,11 +4,6 @@
 </h1>
 <br>
 <br>
-<h1 align="center">
-<img src="https://data.typeracer.com/misc/badge?user=johnmarco123" height="400">
-<img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="400">
-</h1>
-<br>
 
 <h1 align="center">Languages & Tools</h1> 
 <h1 align="center">
@@ -16,6 +11,12 @@
 </h1>
 <h1 align="center">
 <img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,linux,nginx,mysql">
+</h1>
+<br>
+
+<h1 align="center">
+<img src="https://data.typeracer.com/misc/badge?user=johnmarco123" height="400">
+<img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="400">
 </h1>
 <br>
 
