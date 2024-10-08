@@ -16,8 +16,10 @@
 <hr>
 
 <h1 align="center">⭐ My dev workflow ⭐</h1>
+<div align="center">
+<img src="https://raw.githubusercontent.com/johnmarco123/johnmarco123/refs/heads/main/gifs/workflow.gif" width="800">
+</div>
 
-![My dev workflow](https://raw.githubusercontent.com/johnmarco123/johnmarco123/refs/heads/main/gifs/workflow.gif)
 <br><br>
 <hr>
 
