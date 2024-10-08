@@ -24,7 +24,7 @@
 
 <h1 align="center">🛠️ Languages & Tools 🛠️</h1> 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,php,go,rust,python,lua">
+<img src="https://skillicons.dev/icons?i=js,php,python,go,lua,rust,html,css">
 <img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,linux,nginx,mysql">
 </div>
 
