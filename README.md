@@ -10,7 +10,7 @@
 <li><h3>Born and raised canadian</h3></p>
 <li><h3>I'm an Associate Full Stack Developer at Mortgage Automator</h3></p>
 <li><h3>I love my Job and anything to do with programming</h3></p>
-<li><h3>I'm a Neovim enthusiast and update my nvim config in my spare time</h3></p>
+<li><h3>I'm a Neovim enthusiast and update my nvim config regularly [here](https://github.com/johnmarco123/dotfiles2)</h3></p>
 </ul>
 <br><br>
 <hr>
