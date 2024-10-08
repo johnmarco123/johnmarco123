@@ -16,10 +16,8 @@
 <hr>
 
 <h1 align="center">⭐My dev workflow⭐</h1>
-
 ![My dev workflow](https://raw.githubusercontent.com/johnmarco123/johnmarco123/refs/heads/main/gifs/neovim.gif)
-
-<[br](br)><br>
+<br><br>
 <hr>
 
 <h1 align="center">📈 Stats 📈</h1> 
