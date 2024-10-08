@@ -34,9 +34,8 @@
 <img src="https://skillicons.dev/icons?i=js,php,python,go,lua,rust,html,css">
 <img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,linux,nginx,mysql">
 </div>
-
 <hr>
-<br><br>
+
 <h1 align="center">🙃 My commits 🙃</h1> 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/johnmarco123/johnmarco123/output/github-contribution-grid-snake-dark.svg" />
