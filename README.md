@@ -8,8 +8,6 @@
 <h1 align="center">Languages & Tools</h1> 
 <h1 align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,php,go,rust,python,lua">
-</h1>
-<h1 align="center">
 <img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,linux,nginx,mysql">
 </h1>
 <br>
