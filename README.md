@@ -14,7 +14,7 @@
 </ul>
 <br><br>
 <hr>
-[here](https://github.com/johnmarco123/dotfiles2)
+![here](https://github.com/johnmarco123/dotfiles2)
 <h1 align="center">Stats</h1> 
 <div align="center">
 <img src="https://data.typeracer.com/misc/badge?user=johnmarco123" height="375">
