@@ -25,6 +25,7 @@
 <div align="center">
 <img src="https://data.typeracer.com/misc/badge?user=johnmarco123" height="375">
 <img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="375">
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
 </div>
 <br><br>
 <hr>
@@ -35,6 +36,7 @@
 <img src="https://skillicons.dev/icons?i=neovim,vim,docker,ansible,bash,git,github,linux,nginx,mysql">
 </div>
 <hr>
+
 
 <h1 align="center">🙃 My commits 🙃</h1> 
 <picture>
