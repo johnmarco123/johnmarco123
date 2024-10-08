@@ -15,7 +15,7 @@
 <br><br>
 <hr>
 
-<h1 align="center">⭐My dev workflow⭐</h1>
+<h1 align="center">⭐ My dev workflow ⭐</h1>
 
 ![My dev workflow](https://raw.githubusercontent.com/johnmarco123/johnmarco123/refs/heads/main/gifs/workflow.gif)
 <br><br>
