@@ -10,11 +10,10 @@
 <li><h3>Born and raised canadian</h3></p>
 <li><h3>I'm an Associate Full Stack Developer at Mortgage Automator</h3></p>
 <li><h3>I love my Job and anything to do with programming</h3></p>
-<li><h3>I'm a Neovim enthusiast and update my nvim config regularly here</h3></p>
+<li><h3>I'm a Neovim enthusiast and update my nvim config regularly <a href="https://github.com/johnmarco123/dotfiles2">here</a></h3></p>
 </ul>
 <br><br>
 <hr>
-![here](https://github.com/johnmarco123/dotfiles2)
 <h1 align="center">Stats</h1> 
 <div align="center">
 <img src="https://data.typeracer.com/misc/badge?user=johnmarco123" height="375">
