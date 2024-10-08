@@ -1,3 +1,4 @@
+![me coding in neovim](https://raw.githubusercontent.com/johnmarco123/johnmarco123/refs/heads/main/gifs/neovim.gif)
 <br>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&duration=1200&pause=500&color=0AFF07&background=000000&vCenter=true&multiline=true&width=785&height=400&lines=root%40laptop%3A~%24+echo+taxxoqrhafavq%F0%9F%91%8B+%7C+tr+qafxrtv+%5C+erltH!;Hello+there!+%F0%9F%91%8B;root%40laptop%3A~%24+whoami;John-Marco+Tasillo;root%40laptop%3A~%24+cat+welcome.txt;Welcome+to+my+Github+Profile!;root%40laptop%3A~%24+echo+I+use+Neovim+BTW;How+many+times+are+you+gonna+say+that+%F0%9F%99%84;root%40laptop%3A~%24+clear">
@@ -12,7 +13,6 @@
 <li><h3>I love my Job and anything to do with programming</h3></p>
 <li><h3>I'm a Neovim enthusiast and update my neovim config as well as many other configs <a href="https://github.com/johnmarco123/dotfiles2">here</a></h3></p>
 </ul>
-![me coding in neovim](https://raw.githubusercontent.com/johnmarco123/johnmarco123/refs/heads/main/gifs/neovim.gif)
 <br><br>
 <hr>
 <h1 align="center">📈 Stats 📈</h1> 
