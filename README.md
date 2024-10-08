@@ -1,4 +1,3 @@
-
 <br>
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&duration=1200&pause=500&color=0AFF07&background=000000&vCenter=true&multiline=true&width=785&height=400&lines=root%40laptop%3A~%24+echo+taxxoqrhafavq%F0%9F%91%8B+%7C+tr+qafxrtv+%5C+erltH!;Hello+there!+%F0%9F%91%8B;root%40laptop%3A~%24+whoami;John-Marco+Tasillo;root%40laptop%3A~%24+cat+welcome.txt;Welcome+to+my+Github+Profile!;root%40laptop%3A~%24+echo+I+use+Neovim+BTW;How+many+times+are+you+gonna+say+that+%F0%9F%99%84;root%40laptop%3A~%24+clear">
@@ -7,11 +6,12 @@
 <hr>
 
 <h1 align="center">About me</h1>
-<div align="center">
-<p>I'm an Associate Full Stack Developer working at Mortgage Automator </p>
-<p>I love my Job and anything to do with programming</p>
-<p>I configure my neovim in my spare time</p>
-</div>
+    <div width=400>
+        <p>I'm an Associate Full Stack Developer working at Mortgage Automator </p>
+        <p>I love my Job and anything to do with programming</p>
+        <p>I configure my neovim in my spare time</p>
+    </div>
+</h1>
 <br><br>
 <hr>
 
