@@ -7,9 +7,9 @@
 
 <h1 align="center">About me</h1>
 <ul align="left">
-<li><h4>I'm an Associate Full Stack Developer at Mortgage Automator</h4></p>
-<li><h4>I love my Job and anything to do with programming</h4></p>
-<li><h4>I configure my neovim in my spare time</h4></p>
+<li><h5>I'm an Associate Full Stack Developer at Mortgage Automator</h5></p>
+<li><h5>I love my Job and anything to do with programming</h5></p>
+<li><h5>I configure my neovim in my spare time</h5></p>
 </ul>
 <br><br>
 <hr>
