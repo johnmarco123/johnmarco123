@@ -25,8 +25,8 @@
 
 <h1 align="center">📈 Stats 📈</h1> 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=johnmarco123&show_icons=true&theme=dark" height="225">
-<img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="225">
+<img src="https://github-readme-stats.vercel.app/api?username=johnmarco123&show_icons=true&theme=dark" height="200">
+<img src="https://leetcard.jacoblin.cool/johnmarco?theme=dark&font=Ubuntu&ext=heatmap" height="200">
 </div>
 <br><br>
 <hr>
