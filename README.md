@@ -10,7 +10,10 @@
 </h1>
 <br>
 
-<h2 align="center">Languages, stacks, tools</h2> 
+
+
+
+<h2 align="center">🇮🇹 Languages🇵🇱, 🥞stacks🥞 and 🛠️tools🛠️</h2> 
 <h1 align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,php,go,rust,python,lua">
 </h1>
