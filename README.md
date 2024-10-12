@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&duration=1200&pause=500&color=0AFF07&background=000000&vCenter=true&multiline=true&width=800&height=400&lines=root%40laptop%3A~%24+echo+taxxoqrhafavq%F0%9F%91%8B+%7C+tr+qafxrtv+%5C+erltH!;Hello+there!+%F0%9F%91%8B;root%40laptop%3A~%24+whoami;John-Marco+Tasillo;root%40laptop%3A~%24+cat+welcome.txt;Welcome+to+my+Github+Profile!;root%40laptop%3A~%24+echo+I+use+Neovim+BTW;How+many+times+are+you+gonna+say+that+%F0%9F%99%84;root%40laptop%3A~%24+clear">
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&duration=1000&pause=400&color=0AFF07&background=000000&vCenter=true&multiline=true&width=800&height=400&lines=root%40laptop%3A~%24+echo+taxxoqrhafavq%F0%9F%91%8B+%7C+tr+qafxrtv+%5C+erltH!;Hello+there!+%F0%9F%91%8B;root%40laptop%3A~%24+whoami;John-Marco+Tasillo;root%40laptop%3A~%24+cat+welcome.txt;Welcome+to+my+Github+Profile!;root%40laptop%3A~%24+echo+I+use+Neovim+BTW;How+many+times+are+you+gonna+say+that+%F0%9F%99%84;root%40laptop%3A~%24+clear">
 </div>
 <br><br>
 <hr>
