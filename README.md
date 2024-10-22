@@ -17,7 +17,7 @@
 
 <h1 align="center">⭐ My dev workflow ⭐</h1>
 <div align="center">
-<img src="https://raw.githubusercontent.com/johnmarco123/johnmarco123/refs/heads/main/gifs/workflow.gif">
+<img src="https://raw.githubusercontent.com/johnmarco123/johnmarco123/refs/heads/master/gifs/workflow.gif">
 </div>
 
 <br><br>
